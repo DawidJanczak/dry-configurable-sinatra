@@ -2,7 +2,7 @@
 
 source 'https://rubygems.org'
 
-gem 'dry-configurable'
+gem 'dry-configurable', '0.15.0'
 gem 'sinatra'
 gem 'sinatra-contrib'
 
