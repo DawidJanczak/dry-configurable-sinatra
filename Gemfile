@@ -2,9 +2,9 @@
 
 source 'https://rubygems.org'
 
-gem 'dry-configurable'
 gem 'sinatra'
 gem 'sinatra-contrib'
+gem 'zeitwerk'
 
 group :development, :test do
   gem 'rack-test'

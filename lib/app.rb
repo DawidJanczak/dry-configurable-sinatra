@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 # Offending line, remove it and tests pass
-require 'dry/configurable'
+require 'zeitwerk'
 
 require 'sinatra'
 require 'sinatra/config_file'
